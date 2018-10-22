@@ -1,5 +1,5 @@
 -module(binary_addition_FSA).
-%% challenge 04: counting 1 bits
+%% challenge 07: binary addition finite state automation
 -export([add/2]).
 
 add(B1, B2) ->
